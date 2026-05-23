@@ -1,0 +1,201 @@
+CustomerID,ValueSegment,TenureBucket,RecencyFlag,ComplaintResolved,SatisfactionScore,MonthlyRevenue,annual_revenue_at_risk,RiskTier,churn
+CUST00478,"High Value","0-3 Months",Dormant,No,5,53527.55,642331,CRITICAL,0
+CUST04842,"High Value","6-12 Months","At Risk",No,3,30041.68,360500,CRITICAL,0
+CUST00531,"High Value","24+ Months",Dormant,No,3,21067.1,252805,CRITICAL,0
+CUST03077,"High Value","0-3 Months",Dormant,No,3,18892.17,226706,CRITICAL,1
+CUST04854,"High Value","24+ Months","At Risk",No,2,16979.4,203753,CRITICAL,0
+CUST01967,"High Value","24+ Months",Dormant,No,4,15582.17,186986,CRITICAL,1
+CUST02835,"High Value","6-12 Months",Dormant,No,5,14946.04,179352,CRITICAL,1
+CUST04123,"High Value","6-12 Months","At Risk",No,1,14907.2,178886,CRITICAL,1
+CUST04478,"High Value","3-6 Months","At Risk",No,2,14595.17,175142,CRITICAL,1
+CUST02586,"High Value","6-12 Months",Dormant,No,2,14287.72,171453,CRITICAL,0
+CUST01491,"High Value","6-12 Months",Dormant,No,5,14042.81,168514,CRITICAL,0
+CUST01338,"High Value","6-12 Months",Dormant,No,1,12812.28,153747,CRITICAL,1
+CUST04438,"High Value","6-12 Months",Dormant,No,3,12159.72,145917,CRITICAL,1
+CUST02219,"High Value","6-12 Months","At Risk",No,5,12087.9,145055,CRITICAL,0
+CUST03112,"High Value","24+ Months","At Risk",No,3,11848.66,142184,CRITICAL,1
+CUST01870,"High Value","24+ Months",Dormant,No,5,11440.62,137287,CRITICAL,0
+CUST03508,"High Value","3-6 Months",Dormant,No,3,11289.1,135469,CRITICAL,1
+CUST04508,"High Value","6-12 Months",Dormant,No,1,10874.92,130499,CRITICAL,1
+CUST00890,"High Value","6-12 Months",Dormant,No,3,10657.05,127885,CRITICAL,1
+CUST01721,"High Value","0-3 Months","At Risk",No,4,10577.74,126933,CRITICAL,0
+CUST00870,"High Value","12-24 Months",Dormant,No,5,10225.28,122703,CRITICAL,1
+CUST00177,"High Value","12-24 Months","At Risk",No,4,10175.91,122111,CRITICAL,0
+CUST04695,"High Value","3-6 Months",Dormant,No,4,9853.2,118238,CRITICAL,1
+CUST01581,"High Value","6-12 Months",Dormant,No,3,9795.45,117545,CRITICAL,1
+CUST02386,"High Value","0-3 Months",Dormant,No,4,9780.06,117361,CRITICAL,1
+CUST01324,"High Value","6-12 Months",Dormant,No,5,9335.38,112025,CRITICAL,0
+CUST04097,"High Value","3-6 Months",Dormant,No,4,9258.3,111100,CRITICAL,0
+CUST04203,"High Value","6-12 Months",Dormant,No,2,9127.46,109530,CRITICAL,1
+CUST03754,"High Value","24+ Months",Dormant,No,4,9123.84,109486,CRITICAL,1
+CUST00408,"High Value","0-3 Months",Dormant,No,4,8947.91,107375,CRITICAL,1
+CUST02087,"High Value","24+ Months",Dormant,No,5,8926.59,107119,CRITICAL,0
+CUST04437,"High Value","0-3 Months",Dormant,No,4,8529.92,102359,CRITICAL,1
+CUST03051,"High Value","6-12 Months","At Risk",No,2,8269.8,99238,CRITICAL,1
+CUST00245,"High Value","12-24 Months",Dormant,No,3,8258.88,99107,CRITICAL,0
+CUST03640,"High Value","12-24 Months",Dormant,No,4,8191.79,98301,CRITICAL,1
+CUST01302,"High Value","12-24 Months",Dormant,No,2,8158.42,97901,CRITICAL,0
+CUST02739,"High Value","0-3 Months",Dormant,No,3,8109.16,97310,CRITICAL,0
+CUST01757,"High Value","24+ Months",Dormant,No,2,7988.25,95859,CRITICAL,0
+CUST03446,"High Value","0-3 Months","At Risk",No,5,7963.94,95567,CRITICAL,1
+CUST04361,"High Value","6-12 Months",Dormant,No,4,7660.94,91931,CRITICAL,0
+CUST04213,"High Value","12-24 Months",Dormant,No,2,7620.45,91445,CRITICAL,1
+CUST02887,"High Value","24+ Months",Dormant,No,5,7600.48,91206,CRITICAL,1
+CUST04523,"High Value","24+ Months",Dormant,No,4,7408.99,88908,CRITICAL,1
+CUST00020,"High Value","12-24 Months",Dormant,No,4,7407.5,88890,CRITICAL,0
+CUST03432,"High Value","24+ Months",Dormant,No,2,7375.03,88500,CRITICAL,1
+CUST03408,"High Value","6-12 Months",Dormant,No,4,7328.75,87945,CRITICAL,1
+CUST04146,"High Value","0-3 Months",Dormant,No,4,7179.15,86150,CRITICAL,0
+CUST03005,"High Value","6-12 Months",Dormant,No,1,7135.81,85630,CRITICAL,1
+CUST02741,"High Value","3-6 Months",Dormant,No,5,7095.66,85148,CRITICAL,1
+CUST03984,"High Value","0-3 Months","At Risk",No,5,7092.82,85114,CRITICAL,0
+CUST04245,"High Value","6-12 Months",Dormant,No,4,6991.49,83898,CRITICAL,1
+CUST04762,"High Value","0-3 Months","At Risk",No,1,6929.06,83149,CRITICAL,1
+CUST04537,"High Value","12-24 Months",Dormant,No,4,6892.96,82716,CRITICAL,1
+CUST04973,"High Value","24+ Months",Dormant,No,3,6747.62,80971,CRITICAL,1
+CUST01997,"High Value","6-12 Months","At Risk",No,3,6689.84,80278,CRITICAL,0
+CUST02264,"High Value","12-24 Months",Dormant,No,4,6662.89,79955,CRITICAL,1
+CUST02848,"High Value","3-6 Months","At Risk",No,3,6567.26,78807,CRITICAL,0
+CUST01644,"High Value","6-12 Months","At Risk",No,3,6487.8,77854,CRITICAL,0
+CUST02000,"High Value","12-24 Months",Dormant,No,2,6452.73,77433,CRITICAL,1
+CUST02804,"High Value","0-3 Months",Dormant,No,4,6327.07,75925,CRITICAL,1
+CUST04734,"High Value","12-24 Months",Dormant,No,3,6279.09,75349,CRITICAL,1
+CUST01811,"High Value","12-24 Months","At Risk",No,4,6185.72,74229,CRITICAL,1
+CUST03137,"High Value","12-24 Months",Dormant,No,3,6165.54,73986,CRITICAL,1
+CUST04702,"High Value","3-6 Months",Dormant,No,3,6034.55,72415,CRITICAL,1
+CUST04297,"High Value","6-12 Months","At Risk",No,1,5976.3,71716,CRITICAL,1
+CUST04447,"High Value","24+ Months",Dormant,No,5,5784.66,69416,CRITICAL,0
+CUST00641,"High Value","12-24 Months",Dormant,No,4,5625.23,67503,CRITICAL,1
+CUST02932,"High Value","6-12 Months","At Risk",No,5,5617.36,67408,CRITICAL,1
+CUST00026,"High Value","12-24 Months",Dormant,No,2,5600.45,67205,CRITICAL,0
+CUST03320,"High Value","24+ Months",Dormant,No,5,5446,65352,CRITICAL,1
+CUST02758,"High Value","24+ Months",Dormant,No,5,5390.24,64683,CRITICAL,0
+CUST03670,"High Value","12-24 Months","At Risk",No,4,5370.46,64446,CRITICAL,1
+CUST01546,"High Value","12-24 Months","At Risk",No,4,5208.18,62498,CRITICAL,0
+CUST02209,"High Value","3-6 Months",Dormant,No,5,5138.27,61659,CRITICAL,1
+CUST03422,"High Value","12-24 Months",Dormant,No,4,5035.11,60421,CRITICAL,0
+CUST02868,"High Value","3-6 Months",Dormant,No,5,5031.12,60373,CRITICAL,1
+CUST00468,"High Value","24+ Months","At Risk",No,3,5017.97,60216,CRITICAL,0
+CUST03380,"High Value","6-12 Months","At Risk",No,5,4929.56,59155,CRITICAL,0
+CUST03505,"High Value","3-6 Months",Dormant,No,5,4813.08,57757,CRITICAL,0
+CUST03651,"High Value","0-3 Months","At Risk",No,3,4807.48,57690,CRITICAL,1
+CUST01561,"High Value","24+ Months",Dormant,No,5,4799.2,57590,CRITICAL,1
+CUST02222,"High Value","6-12 Months","At Risk",No,1,4791.35,57496,CRITICAL,0
+CUST00290,"High Value","12-24 Months",Dormant,No,5,4767.91,57215,CRITICAL,1
+CUST01712,"High Value","12-24 Months",Dormant,No,3,4750.51,57006,CRITICAL,1
+CUST01675,"High Value","12-24 Months",Dormant,No,3,4734.4,56813,CRITICAL,1
+CUST00676,"High Value","3-6 Months",Dormant,No,4,4683.66,56204,CRITICAL,0
+CUST01003,"High Value","6-12 Months","At Risk",No,5,4510.85,54130,CRITICAL,0
+CUST03488,"High Value","12-24 Months",Dormant,No,5,4452.91,53435,CRITICAL,0
+CUST03609,"High Value","24+ Months",Dormant,No,4,4391.3,52696,CRITICAL,1
+CUST02661,"High Value","3-6 Months",Dormant,No,2,4369.09,52429,CRITICAL,1
+CUST01242,"High Value","0-3 Months",Dormant,No,4,4330.1,51961,CRITICAL,1
+CUST02152,"High Value","3-6 Months",Dormant,No,3,4317.56,51811,CRITICAL,0
+CUST04048,"High Value","6-12 Months","At Risk",No,4,4211.32,50536,CRITICAL,0
+CUST04170,"High Value","3-6 Months","At Risk",No,4,4073.21,48879,CRITICAL,0
+CUST00099,"High Value","12-24 Months",Dormant,No,1,3994.62,47935,CRITICAL,1
+CUST03683,"High Value","6-12 Months","At Risk",No,5,3975.88,47711,CRITICAL,1
+CUST04455,"High Value","6-12 Months","At Risk",No,1,3947.02,47364,CRITICAL,1
+CUST01001,"High Value","0-3 Months",Dormant,No,3,3914.09,46969,CRITICAL,1
+CUST04958,"High Value","24+ Months",Dormant,No,2,3839.82,46078,CRITICAL,1
+CUST01815,"High Value","24+ Months",Dormant,No,3,3806.57,45679,CRITICAL,1
+CUST04964,"High Value","3-6 Months",Dormant,No,3,3676.28,44115,CRITICAL,0
+CUST04518,"High Value","6-12 Months","At Risk",No,5,3657.1,43885,CRITICAL,0
+CUST02034,"High Value","12-24 Months","At Risk",No,4,3630.04,43560,CRITICAL,0
+CUST01502,"High Value","12-24 Months","At Risk",No,3,3627.96,43536,CRITICAL,0
+CUST04384,"High Value","12-24 Months","At Risk",No,5,3620.93,43451,CRITICAL,0
+CUST01600,"High Value","6-12 Months",Dormant,No,4,3553.25,42639,CRITICAL,1
+CUST03200,"High Value","12-24 Months",Dormant,No,3,3519.03,42228,CRITICAL,0
+CUST01753,"High Value","12-24 Months","At Risk",No,4,3501.34,42016,CRITICAL,0
+CUST00421,"High Value","0-3 Months",Dormant,No,4,3467.38,41609,CRITICAL,1
+CUST03769,"High Value","12-24 Months",Dormant,No,3,3454.97,41460,CRITICAL,1
+CUST01901,"High Value","12-24 Months",Dormant,No,2,3430.31,41164,CRITICAL,1
+CUST04028,"High Value","6-12 Months",Dormant,No,5,3405.93,40871,CRITICAL,1
+CUST01781,"High Value","12-24 Months",Dormant,No,2,3388.48,40662,CRITICAL,1
+CUST03434,"High Value","24+ Months",Dormant,No,4,3364.6,40375,CRITICAL,1
+CUST04682,"High Value","6-12 Months",Dormant,No,4,3234.3,38812,CRITICAL,1
+CUST04434,"High Value","24+ Months",Dormant,No,4,3224.38,38693,CRITICAL,0
+CUST01748,"High Value","12-24 Months",Dormant,No,4,3220.05,38641,CRITICAL,1
+CUST02850,"High Value","12-24 Months",Dormant,No,3,3210,38520,CRITICAL,1
+CUST00753,"High Value","24+ Months",Dormant,No,3,3185.65,38228,CRITICAL,0
+CUST02372,"High Value","12-24 Months",Dormant,No,5,3143.7,37724,CRITICAL,1
+CUST00011,"High Value","6-12 Months",Dormant,No,3,3096.81,37162,CRITICAL,1
+CUST04644,"High Value","6-12 Months",Dormant,No,5,3057.32,36688,CRITICAL,0
+CUST01130,"High Value","3-6 Months","At Risk",No,4,3043.74,36525,CRITICAL,0
+CUST03094,"High Value","6-12 Months",Dormant,No,4,3031.16,36374,CRITICAL,1
+CUST03587,"High Value","0-3 Months","At Risk",No,3,3024.74,36297,CRITICAL,0
+CUST02637,"High Value","6-12 Months",Dormant,No,4,3015.98,36192,CRITICAL,0
+CUST00996,"High Value","3-6 Months",Dormant,No,4,3000.03,36000,CRITICAL,1
+CUST00564,"High Value","0-3 Months",Dormant,No,5,2994.4,35933,CRITICAL,0
+CUST00238,"High Value","12-24 Months",Dormant,No,3,2987.1,35845,CRITICAL,1
+CUST00922,"High Value","24+ Months","At Risk",No,4,2971.2,35654,CRITICAL,0
+CUST01079,"High Value","6-12 Months",Dormant,No,4,2952.56,35431,CRITICAL,0
+CUST03284,"High Value","12-24 Months",Dormant,No,5,2944.19,35330,CRITICAL,0
+CUST00299,"High Value","24+ Months",Dormant,No,4,2931.96,35184,CRITICAL,1
+CUST01683,"High Value","0-3 Months","At Risk",No,4,2888.99,34668,CRITICAL,0
+CUST01889,"High Value","24+ Months","At Risk",No,1,2802.69,33632,CRITICAL,1
+CUST04906,"High Value","0-3 Months","At Risk",No,1,2766.79,33201,CRITICAL,1
+CUST04186,"High Value","24+ Months",Dormant,No,4,2747.29,32967,CRITICAL,0
+CUST03178,"High Value","24+ Months",Dormant,No,3,2741.86,32902,CRITICAL,0
+CUST00320,"High Value","12-24 Months",Dormant,No,2,2732.21,32787,CRITICAL,1
+CUST01925,"High Value","24+ Months",Dormant,No,3,2720.44,32645,CRITICAL,0
+CUST02534,"High Value","12-24 Months",Dormant,No,4,2712.47,32550,CRITICAL,0
+CUST02790,"High Value","0-3 Months",Dormant,No,4,2687.64,32252,CRITICAL,1
+CUST01467,"High Value","6-12 Months","At Risk",No,3,2664.54,31974,CRITICAL,0
+CUST03497,"High Value","12-24 Months",Dormant,No,4,2618.46,31422,CRITICAL,1
+CUST04955,"High Value","12-24 Months",Dormant,No,5,2617.27,31407,CRITICAL,0
+CUST00444,"High Value","6-12 Months",Dormant,No,4,2595.2,31142,CRITICAL,1
+CUST01201,"High Value","12-24 Months","At Risk",No,4,2587.98,31056,CRITICAL,0
+CUST03721,"High Value","24+ Months","At Risk",No,2,2582,30984,CRITICAL,0
+CUST00845,"High Value","0-3 Months",Dormant,No,3,2578.06,30937,CRITICAL,1
+CUST03955,"High Value","0-3 Months",Dormant,No,3,2556.64,30680,CRITICAL,1
+CUST04352,"High Value","0-3 Months",Dormant,No,4,2551.92,30623,CRITICAL,1
+CUST00191,"High Value","24+ Months",Dormant,No,5,2538.31,30460,CRITICAL,0
+CUST01777,"High Value","6-12 Months",Dormant,Yes,4,55061.73,660741,HIGH,1
+CUST04388,"High Value","0-3 Months",Dormant,"No Complaint",5,49054.13,588650,HIGH,0
+CUST01975,"High Value","0-3 Months",Dormant,"No Complaint",5,43097.22,517167,HIGH,1
+CUST02785,"High Value","6-12 Months",Dormant,Yes,4,42274.05,507289,HIGH,1
+CUST02337,"High Value","24+ Months",Dormant,"No Complaint",1,40831.27,489975,HIGH,0
+CUST01260,"High Value","12-24 Months","At Risk",Yes,4,37230.3,446764,HIGH,0
+CUST04174,"High Value","3-6 Months",Dormant,Yes,5,36750.18,441002,HIGH,0
+CUST03853,"High Value","24+ Months",Dormant,"No Complaint",3,32444.37,389332,HIGH,0
+CUST02767,"High Value","12-24 Months","At Risk",Yes,3,31058.24,372699,HIGH,1
+CUST03901,"High Value","12-24 Months",Dormant,Yes,2,29809.81,357718,HIGH,1
+CUST01082,"High Value","6-12 Months","At Risk",Yes,3,28844.9,346139,HIGH,0
+CUST01482,"High Value","12-24 Months",Dormant,"No Complaint",4,26334.31,316012,HIGH,0
+CUST01308,"High Value","6-12 Months",Dormant,"No Complaint",3,26054.85,312658,HIGH,1
+CUST00273,"High Value","0-3 Months",Dormant,"No Complaint",4,26032.9,312395,HIGH,0
+CUST04765,"High Value","0-3 Months",Dormant,Yes,2,25667.05,308005,HIGH,1
+CUST02970,"High Value","0-3 Months",Dormant,"No Complaint",3,24719.65,296636,HIGH,1
+CUST02840,"High Value","6-12 Months",Dormant,Yes,3,23747.73,284973,HIGH,1
+CUST02289,"High Value","24+ Months",Dormant,Yes,3,23448.78,281385,HIGH,1
+CUST00647,"High Value","24+ Months",Dormant,"No Complaint",5,23164.84,277978,HIGH,0
+CUST02424,"High Value","24+ Months",Dormant,Yes,3,23108.46,277302,HIGH,1
+CUST04022,"High Value","3-6 Months",Dormant,"No Complaint",3,22931.57,275179,HIGH,0
+CUST02908,"High Value","6-12 Months",Dormant,"No Complaint",1,22231.89,266783,HIGH,1
+CUST02472,"High Value","3-6 Months","At Risk","No Complaint",5,22074.03,264888,HIGH,0
+CUST00343,"High Value","3-6 Months",Dormant,Yes,5,21529.82,258358,HIGH,0
+CUST03322,"High Value","24+ Months",Dormant,"No Complaint",4,21529.33,258352,HIGH,0
+CUST03987,"High Value","6-12 Months","At Risk","No Complaint",3,21371,256452,HIGH,0
+CUST04106,"High Value","6-12 Months","At Risk","No Complaint",5,21229.96,254760,HIGH,0
+CUST03189,"High Value","0-3 Months",Dormant,Yes,3,21173,254076,HIGH,1
+CUST01182,"High Value","0-3 Months",Dormant,"No Complaint",3,20739.31,248872,HIGH,0
+CUST01910,"High Value","0-3 Months",Dormant,Yes,3,20727.14,248726,HIGH,1
+CUST02620,"High Value","0-3 Months",Dormant,Yes,4,20568.25,246819,HIGH,0
+CUST00631,"High Value","0-3 Months",Dormant,"No Complaint",3,20551.61,246619,HIGH,1
+CUST04706,"High Value","24+ Months","At Risk",Yes,5,20522.91,246275,HIGH,0
+CUST03596,"High Value","12-24 Months",Dormant,"No Complaint",5,20319.9,243839,HIGH,0
+CUST04728,"High Value","6-12 Months",Dormant,"No Complaint",4,19846.14,238154,HIGH,0
+CUST03195,"High Value","6-12 Months","At Risk",Yes,2,19713.52,236562,HIGH,0
+CUST02997,"High Value","24+ Months",Dormant,Yes,4,19526.55,234319,HIGH,0
+CUST04676,"High Value","24+ Months","At Risk","No Complaint",5,19474.03,233688,HIGH,0
+CUST02004,"High Value","6-12 Months",Dormant,"No Complaint",4,19038.62,228463,HIGH,0
+CUST01831,"High Value","24+ Months",Dormant,"No Complaint",2,18635.86,223630,HIGH,1
+CUST02097,"High Value","12-24 Months","At Risk",Yes,3,17930.9,215171,HIGH,0
+CUST04784,"High Value","12-24 Months","At Risk","No Complaint",3,17801.27,213615,HIGH,0
+CUST04795,"High Value","6-12 Months","At Risk",Yes,4,17692.95,212315,HIGH,0
+CUST00037,"High Value","24+ Months",Dormant,Yes,5,17408.63,208904,HIGH,0
+CUST01150,"High Value","12-24 Months",Dormant,Yes,4,17219.56,206635,HIGH,1
+CUST04792,"High Value","24+ Months",Dormant,"No Complaint",4,17112,205344,HIGH,0
+CUST02030,"High Value","24+ Months",Dormant,"No Complaint",3,17051.29,204615,HIGH,0
+CUST00471,"High Value","12-24 Months",Dormant,Yes,4,16609.7,199316,HIGH,1

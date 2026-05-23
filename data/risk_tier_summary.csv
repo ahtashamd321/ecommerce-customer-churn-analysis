@@ -1,0 +1,5 @@
+RiskTier,total_customers,churned,churn_rate_pct,revenue_at_risk
+CRITICAL,152,86,56.6,546049
+HIGH,2044,969,47.4,3541365
+MEDIUM,1437,772,53.7,1098112
+LOW,1367,453,33.1,663541
