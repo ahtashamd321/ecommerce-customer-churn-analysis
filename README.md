@@ -7,7 +7,7 @@
 
 ## Project Overview
 
-This project analyzes customer churn behavior across 5,000 e-commerce customers over a full year (Jan–Dec 2024). The goal was not simply to measure churn but to identify **which customers are most financially dangerous to lose**, quantify the revenue impact, and deliver a prioritized retention strategy with specific actions for each business team.
+This project analyzes customer churn behavior across 5000 e-commerce customers over a full year (Jan–Dec 2024). The goal was not simply to measure churn but to identify **which customers are most financially dangerous to lose**, quantify the revenue impact, and deliver a prioritized retention strategy with specific actions for each business team.
 
 The analysis moves from raw behavioral data through SQL based segmentation, revenue risk quantification, and a four tier customer risk framework culminating in a five-page Power BI dashboard and a one-page business recommendation document.
 
@@ -33,7 +33,7 @@ The dataset was **custom-designed and generated** to reflect real e-commerce bus
 
 | Attribute | Details |
 |-----------|---------|
-| Total Records | 5,000 customers |
+| Total Records | 5000 customers |
 | Time Period | January 2024 – December 2024 |
 | Total Columns | 33 |
 | Churn Rate | 45.6% |
