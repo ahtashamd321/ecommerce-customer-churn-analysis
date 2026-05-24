@@ -1,6 +1,8 @@
 # E-Commerce Customer Churn Analysis
 ### Identifying Revenue Risk and Building a Data-Driven Retention Strategy
-
+📊 [View Presentation](presentation/Churn_Analysis_Presentation.pptx) | 
+📁 [Power BI Dashboard](dashboard/ecommerce_churn_dashboard.pbix) | 
+📄 [Recommendation Document](docs/Churn_Analysis_Recommendation.docx)
 ---
 
 ## Project Overview
